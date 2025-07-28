@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CleanDrip | Shop</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>CleanDrip</h1>
+    <nav>
+      <a href="cart.html">Cart 🛒</a>
+    </nav>
+  </header>
 
+  <section class="hero">
+    <h2>Elevate Your Fit.</h2>
+    <p>Minimal looks. Maximum drip. Shop now.</p>
+  </section>
+
+  <section class="products" id="products"></section>
+
+  <script src="script.js"></script>
+</body>
+</html>
